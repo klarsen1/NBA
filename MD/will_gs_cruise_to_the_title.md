@@ -2,13 +2,13 @@
 
 Back in September – before the start of the 2015-2016 NBA season – we wrote a [post](http://multithreaded.stitchfix.com/blog/2015/11/05/nba) about the Golden State Warriors that was titled "Strength in Numbers: Why Golden State Deserved to Win in All." The post explored whether Golden State got lucky last season. Were they carried by their momentum and aided by injuries to the opposing teams, or did they simply have the best basketball DNA? Our conclusion was that Golden State did indeed have the best DNA, although the final series against Cleveland would have been a very close series if Kevin Love and Kyrie Irving had been healthy.
 
-This year, Golden State is amassing a historical season. It's entirely conceivable that Golden State will beat the record of 72 regular-season wins currently held by the 1996 Chicago Bulls. But does this mean that Golden State will *cruise* to the title this year? 
+This year, Golden State is amassing a historical season. It's entirely conceivable that Golden State will beat the record of 72 regular-season wins currently held by the 1995-1996 Chicago Bulls. But does this mean that Golden State will *cruise* to the title this year? 
 
 To answer that question, you have to analyze how Golden State matches up against the San Antonio Spurs and the Cleveland Cavaliers. There are many other strong teams in the NBA, sure, but San Antonio and Cleveland are generally considered to be the main obstacles. 
 
 Now, we all know what happened when Golden State played these teams earlier this season: a close win against Cleveland at home, a 30-point win over San Antonio at home (sans Tim Duncan), and a 34-point win over Cleveland on the road. These results could easily lead one to the following conclusion: Cleveland and San Antonio are not real threats and, barring any significant injuries to a key player, Golden State should feel good about their chances of a repeat. 
 
-Not being satisfied with the analytical robustness of mere reasoning, we consulted the model described in the post mentioned above to determine how Golden State's DNA matches up against Cleveland's and San Antonio's. The short answer is that, according to our model, Golden State should be worried about *both* teams – although San Antonio appears to be the bigger threat of the two.
+Not being satisfied with the analytical robustness of mere reasoning, we consulted the model described in the [post mentioned above](http://multithreaded.stitchfix.com/blog/2015/11/05/nba) to determine how Golden State's DNA matches up against Cleveland's and San Antonio's. The short answer is that, according to our model, Golden State should be worried about *both* teams – although San Antonio appears to be the bigger threat of the two.
 
 ## Methodology – Leveraging Archetypes to Predict Wins
 As mentioned in the previous post, the model used to evaluate these scenarios is based on team "DNA" – i.e., player *archetypes* – and purposefully ignores winning percentages and momentum. Momentum comes and goes, but solid DNA does not.  
