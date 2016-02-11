@@ -53,7 +53,7 @@ Note that we see a mix of green and red dots for the Cleveland and San Antonio. 
 
 However, according to the model, Oklahoma City and the Los Angeles Clippers pose much smaller threats than San Antonio and Cleveland. For reference, the model predicts a 60-70% chance that  Golden State will win a given game against either team. The charts below illustrate this; there are almost no red dots.
 
-![../Images/](plot2.png)
+![](../Images/plot2.png)
 
 ##Last Words
 The main take-away is that Golden State has a deep and diverse roster. For any given game, they're able to create a surplus of minutes allocated to powerful archetypes and hence put themselves in a position to win. 
