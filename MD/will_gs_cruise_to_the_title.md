@@ -13,7 +13,7 @@ Not being satisfied with the analytical robustness of mere reasoning, we consult
 ## Methodology – Leveraging Archetypes to Predict Wins
 As mentioned in the previous post, the model used to evaluate these scenarios is based on team "DNA" – i.e., player *archetypes* – and purposefully ignores winning percentages and momentum. Momentum comes and goes, but solid DNA does not.  
 
-![](flow.png)
+![](../Images/flow.png)
 
 In short, the model will predict a win for a given team if, compared to the opposing team, there's a sufficient "surplus" of minutes allocated to powerful archetypes. Some technical notes about this model:
 
@@ -49,7 +49,7 @@ Some notes about these plots:
 
 Note that we see a mix of green and red dots for the Cleveland and San Antonio. These are going to be hard-fought series for Golden State if we meet them in the playoffs.
 
-![](plot1.png)
+![](../Images/plot1.png)
 
 However, according to the model, Oklahoma City and the Los Angeles Clippers pose much smaller threats than San Antonio and Cleveland. For reference, the model predicts a 60-70% chance that  Golden State will win a given game against either team. The charts below illustrate this; there are almost no red dots.
 
